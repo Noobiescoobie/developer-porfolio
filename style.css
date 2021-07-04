@@ -1,10 +1,13 @@
-body{font-family: 'Bebas Neue', cursive;}
+body{font-family: 'Bebas Neue', cursive; margin: 0;}
 h1{font-size: 50px;}
 .name{color: red;}
 section{display: flex; }
-.half-width{ width: 50%; padding: 8%%; }
+.half-width{ width: 50%  ; padding-left: 5%;}
 
-.half-width img { width: 60%; }
-.know-more {text-decoration: none; background-color: red
-    ;
-            }
+.half-width img { width: 60% ; padding-top: 5%;}
+.first-para{text-align: left;}
+
+#know-more{ text-decoration: none;
+    background-image: linear-gradient(red, tomato); color: white; font: 700;
+    border-radius: 10px; padding: 10px 30px; }
+    .top-banner{background-image: url(pictures/top-banner.png); background-repeat: no-repeat; }
