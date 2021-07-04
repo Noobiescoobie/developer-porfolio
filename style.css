@@ -1,3 +1,10 @@
 body{font-family: 'Bebas Neue', cursive;}
 h1{font-size: 50px;}
 .name{color: red;}
+section{display: flex; }
+.half-width{ width: 50%; padding: 8%%; }
+
+.half-width img { width: 60%; }
+.know-more {text-decoration: none; background-color: red
+    ;
+            }
